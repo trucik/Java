@@ -1,3 +1,4 @@
 # Java
-Here will be Java projects
+Here will be Java projects.
+
 contact: 
